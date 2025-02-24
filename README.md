@@ -4,6 +4,8 @@
 
 This project is an interactive dashboard that visualizes bacteria culture data from human belly button samples. The dashboard is built using D3 and Plotly and provides a user-friendly interface to explore the data.
 
+Link to the Bacteria Cultures Dashboard: https://kathyvng.github.io/belly-button-challenge/ 
+
 ## Project Overview
 
 The dashboard reads data from a JSON file hosted at [https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json). It features:
@@ -38,4 +40,7 @@ The dashboard updates all charts and the metadata panel whenever a new sample is
 - **app.js:** Contains the JavaScript code for building and updating the charts and metadata.
 - **styles.css:** (Optional) Custom CSS styles for the dashboard.
 - **README.md:** Project overview and instructions (this file).
+
+## Code Source: 
+Xpert learning Assistant: https://bootcampspot.instructure.com/courses/6252/external_tools/451
 
